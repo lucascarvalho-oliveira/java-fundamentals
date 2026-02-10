@@ -20,6 +20,8 @@ Programa focado em:
 - Divisão inteira e operador módulo (`%`)
 - Cálculo e reaproveitamento de valores
 
+---
+
 ### 📁 RankingNotas
 
 Programa voltado para:
@@ -29,6 +31,8 @@ Programa voltado para:
 - Cálculo de média
 - Comparação de valores
 - Identificação de maior elemento
+
+---
 
 ### 📁 ValidadorSenha
 
