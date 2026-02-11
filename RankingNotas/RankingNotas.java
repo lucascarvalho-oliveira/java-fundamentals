@@ -11,9 +11,10 @@ public class RankingNotas {
 
         double media = soma / notas.length;
 
-        int contador = 0;
+        int contador
+ = 0;
         for (int i = 0; i < notas.length; i++) {
-            if (notas[i] > media) cont++;
+            if (notas[i] > media) contador++;
         }
 
         double maior = notas[0];
