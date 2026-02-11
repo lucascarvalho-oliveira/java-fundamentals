@@ -11,7 +11,7 @@ public class RankingNotas {
 
         double media = soma / notas.length;
 
-        int cont = 0;
+        int contador = 0;
         for (int i = 0; i < notas.length; i++) {
             if (notas[i] > media) cont++;
         }
