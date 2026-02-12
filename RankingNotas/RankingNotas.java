@@ -23,7 +23,7 @@ public class RankingNotas {
         }
 
         System.out.println("Media = " + media);
-        System.out.println("Quantidade de alunos aprovados: " + cont);
+        System.out.println("Quantidade de alunos aprovados: " + contador);
         System.out.println("Maior nota = " + maior);
     }
 }
