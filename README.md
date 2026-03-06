@@ -1,52 +1,55 @@
-# Java
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
 
-Este repositório reúne meus **projetos e exercícios de estudo em Java**. O objetivo não é apenas "guardar códigos", mas **registrar minha evolução prática na linguagem**, com foco em lógica de programação e fundamentos sólidos.
+# Java Fundamentals
 
-## Objetivo do repositório
+Este repositório reúne **exercícios, exemplos de código e pequenos projetos desenvolvidos durante meus estudos de Java**.
+O objetivo é praticar os **fundamentos da linguagem**, compreender conceitos essenciais de programação e evoluir gradualmente para projetos mais complexos.
+Os códigos presentes aqui representam minha prática contínua com **lógica de programação, estruturas da linguagem e Programação Orientada a Objetos (POO)**.
 
-- Consolidar os **fundamentos da linguagem Java**
-- Desenvolver raciocínio lógico e algorítmico
-- Praticar estruturas básicas da linguagem
-- Servir como base de estudo contínuo (não como portfólio final)
+## Objetivo do Repositório
 
-> Projetos Java mais completos e orientados a objetos poderão futuramente ganhar **repositórios próprios**.
+Este repositório foi criado para:
 
-### 📁 DistribuicaoCedulas
+* Praticar os **fundamentos da linguagem Java**
+* Desenvolver **lógica de programação**
+* Aplicar conceitos de **Programação Orientada a Objetos**
+* Experimentar diferentes estruturas da linguagem
+* Registrar minha evolução no aprendizado de Java
 
-Programa focado em:
+## Conteúdos Praticados
 
-- Lógica condicional
-- Operadores aritméticos
-- Divisão inteira e operador módulo (`%`)
-- Cálculo e reaproveitamento de valores
+Entre os principais tópicos praticados neste repositório estão:
 
----
+* Variáveis e tipos de dados
+* Operadores
+* Estruturas condicionais (`if`, `switch`)
+* Estruturas de repetição (`for`, `while`)
+* Métodos e funções
+* Vetores e coleções
+* Classes e objetos
+* Encapsulamento
+* Herança
+* Organização de código em pacotes
 
-### 📁 RankingNotas
+## Estrutura do Repositório
+Cada pasta contém **códigos desenvolvidos para praticar conceitos específicos da linguagem Java**.
 
-Programa voltado para:
+## Tecnologias Utilizadas
 
-- Manipulação de vetores (`array`)
-- Estruturas de repetição (`for`)
-- Cálculo de média
-- Comparação de valores
-- Identificação de maior elemento
+* Java
+* Programação Orientada a Objetos (POO)
+* Git
+* GitHub
 
----
+## Objetivo de Aprendizado
 
-### 📁 ValidadorSenha
+Este repositório faz parte da minha jornada de aprendizado em **desenvolvimento de software**, com foco em construir uma base sólida em Java para evoluir posteriormente para:
 
-Programa focado em:
-
-- Validação de entradas do usuário
-- Estruturas de repetição (`while`)
-- Estruturas condicionais (`if`)
-- Uso de variáveis booleanas
-- Expressões regulares para validação de regras
-
-## Status
-
-Repositório **em evolução contínua**.
-
-Novos exercícios e melhorias serão adicionados conforme o avanço dos estudos em Java.
-
+* Desenvolvimento Backend
+* Frameworks como **Spring Boot**
+* Integração com bancos de dados
+* Desenvolvimento de APIs
