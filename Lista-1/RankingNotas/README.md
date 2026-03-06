@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.pt-BR.md">
+    <img src="https://img.shields.io/badge/Language-Português-green?style=for-the-badge">
+  </a>
+</p>
+
 # Ranking de Notas em Java
 Este programa em Java calcula informações de um conjunto de notas dos alunos.
 Ele realiza três tarefas principais:
