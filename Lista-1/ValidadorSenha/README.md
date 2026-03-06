@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # Validador de Senha em Java
 Este programa em Java valida a criação de uma senha com base em critérios de segurança.
 Ele realiza três tarefas principais:
