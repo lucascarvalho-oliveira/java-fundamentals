@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # Distribuição de Cédulas em Java
 Este programa em Java calcula a distribuição de cédulas de dinheiro a partir de um valor inteiro informado pelo usuário.
 Ele realiza três tarefas principais:
