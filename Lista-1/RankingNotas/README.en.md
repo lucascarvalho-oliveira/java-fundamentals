@@ -14,8 +14,8 @@ It performs three main tasks:
 
 ## Technologies Used
 
-*Java
-*Basic structures: `array`, `for`, `if`
+* Java
+* Basic structures: `array`, `for`, `if`
 
 ## How the Program Works
 
